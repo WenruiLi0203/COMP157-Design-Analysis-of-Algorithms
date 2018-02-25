@@ -1,3 +1,12 @@
+/*
+Author : Wenrui Li
+Last Updated Date: 1/26/2018
+Description: 
+Comparing used time in three algorithms as follow:
+- Euclid’s algorithm
+- Consecutive integer checking algorithms
+- Middle-school procedure
+*/
 import java.util.ArrayList;
 
 public class Time {
