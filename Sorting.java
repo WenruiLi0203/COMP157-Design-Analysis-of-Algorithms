@@ -1,8 +1,8 @@
-
 /* 	
  * Wenrui Li
  * Comp 157 - Exercise3
  * 02/16/2018
+ * Selection Sort and Bubble Sort
 */
 import java.util.Arrays;
 
